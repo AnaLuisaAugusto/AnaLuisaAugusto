@@ -6,10 +6,9 @@
 <center>
   <div>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AnaLuisaAugusto&show_icons=true&theme=midnight-purple" alt="ImgGitHubstats"/> 
-   
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLuisaAugusto&layout=compact&theme=midnight-purple" alt="ImgTopLangs"/>
   </div>
-</center>
+<center>
 </br>
 
 ### Technologies I use the most:
