@@ -3,11 +3,13 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8b2fc9&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Be+Welcome!👋;My+name+is+Ana+Luísa;I'm+from+Brazil;I'm+Studying+System+Development💻)
 
 <br>
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AnaLuisaAugusto&show_icons=true&theme=midnight-purple" alt="ImgGitHubstats"/> 
- 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLuisaAugusto&layout=compact&theme=midnight-purple" alt="ImgTopLangs"/>
-</div>
+<center>
+  <div>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AnaLuisaAugusto&show_icons=true&theme=midnight-purple" alt="ImgGitHubstats"/> 
+   
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLuisaAugusto&layout=compact&theme=midnight-purple" alt="ImgTopLangs"/>
+  </div>
+</center>
 </br>
 
 ### Technologies I use the most:
