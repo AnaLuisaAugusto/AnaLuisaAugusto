@@ -4,21 +4,28 @@
 
 <br>
 <center>
-  <div>
+  <p align="center">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AnaLuisaAugusto&show_icons=true&theme=midnight-purple" alt="ImgGitHubstats"/> 
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLuisaAugusto&layout=compact&theme=midnight-purple" alt="ImgTopLangs"/>
-  </div>
+  </p>
 <center>
-</br>
+<br>
 
-### Technologies I use the most:
-<hr>
+## Skills:
 
-<div>
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img align="center" alt="JS" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img align="center" alt="JS" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<div align="center">
+  <hr>
+  <div>
+    <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <!-- html -->
+    <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <!-- css -->        
+    <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  <!-- js -->
+    <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> <!-- boostrap -->
+    <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> <!-- tailwind -->
+    <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> <!-- figma -->
+    <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />  <!-- composer -->
+    <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />  <!-- java -->
+    <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />  <!-- mysql -->
+    <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />  <!-- firebase -->
+  </div>
 </div>
 <br>
