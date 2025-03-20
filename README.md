@@ -14,7 +14,6 @@
 ## Skills:
 
 <div align="center">
-  <hr>
   <div>
     <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <!-- html -->
     <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <!-- css -->        
@@ -23,9 +22,21 @@
     <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> <!-- tailwind -->
     <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> <!-- figma -->
     <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />  <!-- composer -->
-    <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />  <!-- java -->
     <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />  <!-- mysql -->
     <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />  <!-- firebase -->
+    <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> <!-- nodejs -->
+    <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /> <!-- vue -->        
+          
   </div>
 </div>
+
+## Learning:
+
+<div align="center">
+  <div>
+    <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <!-- python -->
+    <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />  <!-- java -->
+  </div>
+</div>
+
 <br>
