@@ -31,8 +31,6 @@
 </div>
 <br>
 
-<img src="https://raw.githubusercontent.com/AnaLuisaAugusto/AnaLuisaAugusto/output/snake.svg" alt="Snake animation" />
-
 ## Learning:
 
 <div align="center">
@@ -41,5 +39,7 @@
     <img align="center" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />  <!-- java -->
   </div>
 </div>
+
+<img src="https://raw.githubusercontent.com/AnaLuisaAugusto/AnaLuisaAugusto/output/snake.svg" alt="Snake animation" />
 
 <br>
